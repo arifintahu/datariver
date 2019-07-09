@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/datariver/static/css/main.353e6cd8.chunk.css",
-    "main.js": "/datariver/static/js/main.81d9ca0e.chunk.js",
-    "main.js.map": "/datariver/static/js/main.81d9ca0e.chunk.js.map",
+    "main.js": "/datariver/static/js/main.2bae29dc.chunk.js",
+    "main.js.map": "/datariver/static/js/main.2bae29dc.chunk.js.map",
     "runtime~main.js": "/datariver/static/js/runtime~main.1a347e1a.js",
     "runtime~main.js.map": "/datariver/static/js/runtime~main.1a347e1a.js.map",
     "static/js/2.634f637c.chunk.js": "/datariver/static/js/2.634f637c.chunk.js",
     "static/js/2.634f637c.chunk.js.map": "/datariver/static/js/2.634f637c.chunk.js.map",
     "index.html": "/datariver/index.html",
-    "precache-manifest.7c73780a3ee096a44764da3ffa4c68bb.js": "/datariver/precache-manifest.7c73780a3ee096a44764da3ffa4c68bb.js",
+    "precache-manifest.fbdd9d175c271228a308f05cbe773f8d.js": "/datariver/precache-manifest.fbdd9d175c271228a308f05cbe773f8d.js",
     "service-worker.js": "/datariver/service-worker.js",
     "static/css/main.353e6cd8.chunk.css.map": "/datariver/static/css/main.353e6cd8.chunk.css.map"
   }

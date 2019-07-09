@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "669716e515f138083d0e43f3e2fadbea",
+    "revision": "14cf0cfda325a166b6373949d99e6952",
     "url": "/datariver/index.html"
   },
   {
-    "revision": "ede4c48c6bb12d9df97c",
+    "revision": "c4de60500f6766e336cc",
     "url": "/datariver/static/css/main.353e6cd8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/datariver/static/js/2.634f637c.chunk.js"
   },
   {
-    "revision": "ede4c48c6bb12d9df97c",
-    "url": "/datariver/static/js/main.81d9ca0e.chunk.js"
+    "revision": "c4de60500f6766e336cc",
+    "url": "/datariver/static/js/main.2bae29dc.chunk.js"
   },
   {
     "revision": "8389df470e30a10f28eb",
